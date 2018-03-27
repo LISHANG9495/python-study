@@ -1,3 +1,3 @@
 # python-study
 学习上的记录
-这是开始学习python的第一天，先从语法开始研究
+最终目的是能够通过python建立起一个个人的blog
